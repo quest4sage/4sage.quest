@@ -1,15 +1,14 @@
-*{
-    box-sizing: border-box;
-    color-scheme: dark;
-}
+
 header {
     background-color: #3a1f42;
     color: #e1cae8;
     text-align: center;
+    margin: 0;
+    
 }
-main {
+body {
     background-color: #41254a;
-    color: #e1cae8;
+    color: ##e6d5eb;
     text-align: center;
 }
     
