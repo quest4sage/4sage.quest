@@ -3,13 +3,15 @@
     color-scheme: dark;
 }
 body {
-  background-color: #3a1f42;
+    background-color: #3a1f42;
 }
 h1 {
-  color: #e1cae8;
-  text-align: center;
+    color: #e1cae8;
+    text-align: center;
+    background-color: #3a1f42;
 }
 p {
-  color: #e1cae8;
-  text-align: center;
+    color: #e1cae8;
+    text-align: center;
+    background-color: #3a1f42;
 }
