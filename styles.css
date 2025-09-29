@@ -1,17 +1,15 @@
-{
+*{
     box-sizing: border-box;
     color-scheme: dark;
 }
-body {
+head {
     background-color: #3a1f42;
-}
-h1 {
     color: #e1cae8;
     text-align: center;
-    background-color: #3a1f42;
 }
-p {
+main {
+    background-color: #41254a;
     color: #e1cae8;
     text-align: center;
-    background-color: #3a1f42;
 }
+    
