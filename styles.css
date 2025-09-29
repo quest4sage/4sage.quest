@@ -1,5 +1,12 @@
 body {
   background-color: #3a1f42;
+
+}
+h1 {
+  color: #e1cae8;
+  text-align: center;
+}
+p {
   color: #e1cae8;
   text-align: center;
 }
