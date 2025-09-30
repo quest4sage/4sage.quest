@@ -18,6 +18,8 @@ nav {
     background-color: #1b0e1f;
     color: #e6d5eb;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 main {
    color: #e6d5eb; 
